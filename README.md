@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 💻 I am a Masters Student in Computer Science from Georgia State University.
-- 👩‍💼 I've previously worked at IBM as a Software performance Analyst.
+- 👩‍💼 I've previously worked at IBM as a Data Engineer.
 - 👩‍💻 I like Coding and always wanted to sing for a good cause.
 - 👯 We can collaborate on various CS topics and develop any website.
 - 🔭 I’m currently developing a system for certificates storing and verification.
