@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 💻 I am a Masters Student in Computer Science from Georgia State University.
 - 👩‍💼 I've previously worked at IBM as a Data Engineer.
-- 👩‍💻 I like Coding and always wanted to sing for a good cause.
+- 👩‍💻 I like Coding and I'm always eager to learn new technologies.
 - 👯 We can collaborate on various CS topics and develop any website.
 - 🔭 I’m currently developing a system for certificates storing and verification.
 - 💻 I have a website at https://prashanthi-reddy-koudi-1.jimdosite.com/
@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 - 💻 I am a Masters Student in Computer Science from Georgia State University.
 - 👩‍💼 I've previously worked at IBM as a Software performance Analyst.
-- 👩‍💻 I like Coding and always wanted to sing for a good cause.
+- 👩‍💻 I like Coding and I'm always eager to learn new technologies.
 - 👯 We can collaborate on various CS topics and develop any website.
 - 🔭 I’m currently developing a system for certificates storing and verification.
 - 💻 I have a website at https://prashanthi-reddy-koudi-1.jimdosite.com/
